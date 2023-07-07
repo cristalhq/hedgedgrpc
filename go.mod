@@ -2,7 +2,7 @@ module github.com/cristalhq/hedgedgrpc
 
 go 1.17
 
-require google.golang.org/grpc v1.56.1
+require google.golang.org/grpc v1.56.2
 
 require (
 	github.com/golang/protobuf v1.5.3 // indirect
